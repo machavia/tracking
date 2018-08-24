@@ -1,0 +1,13 @@
+/.idea
+.DS_Store
+/config/config_dev.json
+/config/config.json
+.git
+bin/application
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+/models/models.go

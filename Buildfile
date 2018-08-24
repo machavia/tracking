@@ -1,0 +1,1 @@
+make: sudo ./build.sh
